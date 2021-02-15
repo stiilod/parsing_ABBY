@@ -34,6 +34,7 @@ public class AbbyMain {
             if (mP[i] == 'Y') {
                 mArL.add(i + 1);
             }
+            ;
         }
         for (String s : allDocumentsPositions) {
             for (int i : mArL) {
