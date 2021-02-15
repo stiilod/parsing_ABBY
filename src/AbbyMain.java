@@ -43,5 +43,6 @@ public class AbbyMain {
                 }
             }
         }
+        System.out.println();
     }
 }
